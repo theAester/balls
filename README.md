@@ -7,6 +7,8 @@ They make sound.
 
 following the video that became popular on instagram a while ago.
 
+https://www.reddit.com/r/oddlysatisfying/comments/tbg1t1/this_bounce_animation/
+
 ## requirements
 the entire SDL library:
 
